@@ -75,7 +75,7 @@ const karam = {
 <img src="https://ghstats.dev/api/card?username=Karam-Samer&theme=midnight&size=compact&show_emoji=true" alt="GitHub Stats Card" />
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Karam-Samer" alt="Karam-Samer" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Karam-Samer&theme=midnight" alt="Karam-Samer" /></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
